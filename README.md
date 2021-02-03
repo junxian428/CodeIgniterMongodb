@@ -35,4 +35,5 @@ Check Apache error log:
  
  php --ini
 
+Location: /etc/php/7.3/cli
 
