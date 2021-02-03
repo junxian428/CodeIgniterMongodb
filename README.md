@@ -65,5 +65,7 @@ Mongodb Config
 
 sudo cp /home/pi/Downloads/demo/application/config/mongo_db.php /var/www/html/Code/demo/app/Config
 
+sudo cp /home/pi/Downloads/demo/application/libraries/Mongo_db.php /var/www/html/Code/demo/app/Libraries
+
 
 
