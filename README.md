@@ -4,6 +4,8 @@ Downloads:
 
 https://codeigniter.com/
 
+git clone https://github.com/intekhabrizvi/Codeigniter-mongo-library.git
+
 
 pwd
 
