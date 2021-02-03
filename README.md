@@ -16,3 +16,6 @@ sudo unzip Codeigniter-mongo-library-master.zip
 sudo rm Codeigniter-mongo-library-master.zip
 
 
+rename:
+
+sudo mv Codeigniter-mongo-library-master demo
