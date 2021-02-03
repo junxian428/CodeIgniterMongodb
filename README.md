@@ -55,7 +55,15 @@ chown -R apache /var/www/myproject/writable
 
 ________________________________________________________________________________________________________________
 
-Mongodb
+Mongodb Install
 
 sudo apt-get install mongodb
+
+_______________________________________________________________________________________________________________
+
+Mongodb Config
+
+sudo cp /home/pi/Downloads/demo/application/config/mongo_db.php /var/www/html/Code/demo/app/Config
+
+
 
