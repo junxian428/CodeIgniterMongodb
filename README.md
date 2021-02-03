@@ -53,3 +53,9 @@ sudo apt-get install php-intl
 
 chown -R apache /var/www/myproject/writable
 
+________________________________________________________________________________________________________________
+
+Mongodb
+
+sudo apt-get install mongodb
+
