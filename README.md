@@ -37,3 +37,5 @@ Check Apache error log:
 
 Location: /etc/php/7.3/cli
 
+![alt-text](https://user-images.githubusercontent.com/58724748/106718814-8297f600-663c-11eb-8149-5c425869d40d.png)
+
