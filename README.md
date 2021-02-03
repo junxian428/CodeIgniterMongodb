@@ -50,3 +50,6 @@ Else
 sudo apt-get install php-intl
 
 ![alt-text](https://user-images.githubusercontent.com/58724748/106723256-e113a300-6641-11eb-9b00-007e8be861b5.png)
+
+chown -R apache /var/www/myproject/writable
+
