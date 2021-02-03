@@ -68,4 +68,13 @@ sudo cp /home/pi/Downloads/demo/application/config/mongo_db.php /var/www/html/Co
 sudo cp /home/pi/Downloads/demo/application/libraries/Mongo_db.php /var/www/html/Code/demo/app/Libraries
 
 
+Edit 
+
+Pages 
+
+app/Views/welcome_message.php
+
+Controllers
+
+app/Controllers/Home.php
 
