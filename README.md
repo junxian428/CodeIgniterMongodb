@@ -41,3 +41,10 @@ Location: /etc/php/7.3/cli
 
 ![alt-text](https://user-images.githubusercontent.com/58724748/106720624-a5c3a500-663e-11eb-92c7-b3e02c830c69.png)
 
+Check Extension
+
+php -m
+
+Else
+
+sudo apt-get install php-intl
