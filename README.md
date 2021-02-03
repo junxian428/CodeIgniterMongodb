@@ -22,3 +22,9 @@ sudo mv Codeigniter-mongo-library-master demo
 
 
 sudo cp /home/pi/Downloads/framework-4.1.1.zip /var/www/html/demo
+
+
+Check Apache error log:
+
+ cat /var/log/apache2/error.log
+
